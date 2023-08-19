@@ -1,0 +1,4 @@
+﻿  Game_C++.cpp
+Q:\WordSpace\CODE\learnC\SFML_Clone\Game_C++\Game_C++.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Q:\WordSpace\CODE\learnC\SFML_Clone\Game_C++\Game_C++.cpp(30,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game_C++.vcxproj -> Q:\WordSpace\CODE\learnC\SFML_Clone\Debug\Game_C++.exe
