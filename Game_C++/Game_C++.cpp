@@ -10,7 +10,7 @@ int main() {
     sf::Text scoreleft,scoreright;
     int scorel(0), scorer(0);
     sf::Font font;
-    font.loadFromFile("Q:/WordSpace/CODE/learnC/SFML_Clone/SFML/times.ttf");
+    font.loadFromFile("../SFML/times.ttf");
     scoreleft.setFont(font);
     scoreleft.setCharacterSize(30);
     scoreleft.setPosition(350, 30);
